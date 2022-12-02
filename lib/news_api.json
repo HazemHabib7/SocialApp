@@ -1,0 +1,270 @@
+https://newsapi.org/
+v2/top-headlines?country=us&category=business&apiKey=e10dde71670f48a9ba65deb69b247c97
+
+
+{
+"status": "ok",
+"totalResults": 70,
+-"articles": [
+-{
+-"source": {
+"id": null,
+"name": "CoinDesk"
+},
+"author": "Sam  Kessler",
+"title": "Crypto Fund Galois Capital Has Half of Its Capital Trapped on FTX - CoinDesk",
+"description": "The locked funds total around $40 million, according to co-founder Kevin Zhou.",
+"url": "https://www.coindesk.com/business/2022/11/12/crypto-fund-galois-capital-has-half-of-its-capital-trapped-on-ftx/",
+"urlToImage": "https://www.coindesk.com/resizer/VPndRr6Kuz9kcOlZCSzBwLX0fOc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KHBNTQYR6BHJVMCPDIEYPLB25Y.jpg",
+"publishedAt": "2022-11-12T07:08:00Z",
+"content": "Crypto hedge fund Galois Capital told CoinDesk in a Telegram message on Saturday that around half of its funds are stuck on FTX, the beleaguered crypto exchange which filed for chapter 11 bankruptcy … [+1455 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Decrypt"
+},
+"author": "Daniel Roberts",
+"title": "Elon Musk: Sam Bankman-Fried 'Set Off My BS Detector' When He Approached About Twitter Investment - Yahoo Finance",
+"description": "When SBF approached Musk about investing in his Twitter bid, Musk asked his banker Michael Grimes, \"Does Sam actually have $3B liquid?\"",
+"url": "https://decrypt.co/114266/elon-musk-sam-bankman-fried-set-off-my-bs-detector-when-he-approached-about-twitter-investment",
+"urlToImage": "https://media.zenfs.com/en/decrypt_media_980/3782d0181970316b169db8072528fe55",
+"publishedAt": "2022-11-12T05:14:23Z",
+"content": "After the epic collapse of Sam Bankman-Fried's entire crypto empire this week, even Elon Musk took a moment from his extremely chaotic week at the helm of Twitter to declare that he never trusted SBF… [+2487 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Fox Business"
+},
+"author": "Lawrence Richard",
+"title": "Disney announces upcoming layoffs, hiring freeze to cut costs in internal memo from CEO Bob Chapek: report - Fox Business",
+"description": "Disney CEO Bob Chapek has warned staff members in an internal memo that they should expect to see the company take cost-saving measures, including layoffs and a hiring freeze.",
+"url": "https://www.foxbusiness.com/markets/disney-announces-upcoming-layoffs-hiring-freeze-cut-costs-internal-memo-ceo-bob-chapek-report",
+"urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/11/0/0/GettyImages-1238678343.jpg?ve=1&tl=1",
+"publishedAt": "2022-11-12T04:35:23Z",
+"content": "The Walt Disney Co. is planning to freeze hiring and cut some jobs ahead of the winter holidays following a disappointing quarter, according to a report. \r\nIn the memo sent to employees, Disney CEO B… [+3466 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CoinDesk"
+},
+"author": "Cheyenne Ligon, Sam Reynolds, Sam  Kessler, Nikhilesh De",
+"title": "FTX Faces Potential Hack, Sees Mysterious Outflows Totaling More than $600M - CoinDesk",
+"description": "FTX officials appeared to confirm rumors of a hack on Telegram, instructing users to delete FTX apps and avoid its website.",
+"url": "https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/",
+"urlToImage": "https://www.coindesk.com/resizer/QiCBMbAWVImSJwSZ9N39KdPylsE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7ZKTKUKUBBCP3GP3SN33YHB52Y.jpg",
+"publishedAt": "2022-11-12T04:23:08Z",
+"content": "More than $600 million in crypto left bankrupt crypto company FTXs wallets late Friday, with little clear explanation as to why.\r\nSoon afterwards, FTX stated in its official Telegram channel that it … [+2615 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "California regulators propose compensation cuts for rooftop solar - KPIX CBS SF Bay Area",
+"description": "Once again, California regulators proposed rolling back the value of credits homeowners get from utilities for excess power their solar panels send to the gr...",
+"url": "https://www.youtube.com/watch?v=ZVPcrXHeZdE",
+"urlToImage": "https://i.ytimg.com/vi/ZVPcrXHeZdE/hqdefault.jpg",
+"publishedAt": "2022-11-12T02:50:19Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "Sam Bankman-Fried's crypto empire collapsed — here's how #Shorts - CNBC Television",
+"description": "A look at the timeline of the FTX collapse that occurred this week in the crypto world.",
+"url": "https://www.youtube.com/watch?v=1IiIQJc2gAI",
+"urlToImage": "https://i.ytimg.com/vi/1IiIQJc2gAI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYSyBWKGUwDw==&rs=AOn4CLCmeCQ_ErXVEeV3pBqSFAjnGPce7Q",
+"publishedAt": "2022-11-12T02:48:29Z",
+"content": null
+},
+-{
+-"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": null,
+"title": "Nasdaq, S&P 500 end sharply higher, fueled by inflation optimism - Reuters.com",
+"description": "The S&P 500 and Nasdaq ended sharply higher on Friday, extending a rally started the day before after a soft inflation reading raised hopes the Federal Reserve would get less aggressive with U.S. interest rate hikes.",
+"url": "https://www.reuters.com/markets/us/futures-point-fresh-gains-wall-street-2022-11-11/",
+"urlToImage": "https://www.reuters.com/resizer/rCwy7mHTF_JeUP1Hc3MCzeV15M8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6C56CDETQ5K2RGMHQXHLRXWERY.jpg",
+"publishedAt": "2022-11-12T01:29:00Z",
+"content": "Nov 11 (Reuters) - The S&amp;P 500 and Nasdaq ended sharply higher on Friday, extending a rally started the day before after a soft inflation reading raised hopes the Federal Reserve would get less a… [+3112 chars]"
+},
+-{
+-"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Julia Horowitz",
+"title": "What's next for crypto as FTX collapse triggers 'Lehman moment'? - CNN",
+"description": "The stunning downfall of the FTX exchange, one of the biggest and most reputable players in the market for digital assets, is sparking alarm among people who own cryptocurrencies as investors run for cover.",
+"url": "https://www.cnn.com/2022/11/11/investing/ftx-crypto-consequences-lehman/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221111045250-01-ftx-crypto-consequences-lehman.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2022-11-12T01:20:00Z",
+"content": "The stunning downfall of the FTX exchange, one of the biggest and most reputable players in the market for digital assets, is sparking alarmamong people who own cryptocurrencies as investors run for … [+5958 chars]"
+},
+-{
+-"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": "Gregory Zuckerman, Alexander Osipovich",
+"title": "How FTX's Sam Bankman-Fried Went From Crypto Golden Boy to Villain - The Wall Street Journal",
+"description": "The exchange’s founder, once seen as a steady hand in the world of digital assets, is under investigation and his company filed for bankruptcy",
+"url": "https://www.wsj.com/articles/how-ftx-sam-bankman-fried-went-from-crypto-golden-boy-to-villain-11668199208",
+"urlToImage": "https://images.wsj.net/im-663794/social",
+"publishedAt": "2022-11-12T00:47:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Brian Armstrong, Coinbase CEO",
+"title": "Op-ed: Crypto markets need regulation to avoid more washouts like FTX, says Coinbase CEO Brian Armstrong - CNBC",
+"description": "The U.S. can take the lead by providing clear, business-forward regulation on crypto, writes Coinbase CEO Brian Armstrong",
+"url": "https://www.cnbc.com/2022/11/11/op-ed-crypto-markets-need-regulation-to-avoid-ftx-type-situations.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/106868259-1618418339934-gettyimages-1144022591-775341711SF057_Consensus_20.jpeg?v=1668212123&w=1920&h=1080",
+"publishedAt": "2022-11-12T00:15:00Z",
+"content": "FTX until recently one of the biggest crypto exchanges in the world declared bankruptcy Friday after revelations about its business practices led to a surge of customer withdrawals, without sufficien… [+4420 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Krystal Hur",
+"title": "Jim Cramer says to hold on to these 3 cloud stocks and sell the rest - CNBC",
+"description": "To come up with his list of stocks, Cramer first looked at the WisdomTree Cloud Computing Fund, an ETF that soared over 13% on Thursday.",
+"url": "https://www.cnbc.com/2022/11/11/jim-cramer-says-to-hold-onto-these-3-cloud-stocks-and-sell-the-rest.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107076542-1655394598713-IMG_1708rb.jpg?v=1668210790&w=1920&h=1080",
+"publishedAt": "2022-11-11T23:53:10Z",
+"content": "CNBC's Jim Cramer on Friday offered a list of stock picks for investors who are bullish on cloud computing but cautioned that he believes there's more pain to come.\r\n\"I recommend using this incredibl… [+1338 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Decrypt"
+},
+"author": "Jose Antonio Lanz, Mat Di Salvo",
+"title": "'Like a 1930s Dictator': Vitalik Buterin Lays Into Sam Bankman-Fried and FTX - Decrypt",
+"description": "FTX's ignominious collapse was inevitable, Ethereum co-founder Vitalik Buterin said at LaBitConf Friday.",
+"url": "https://decrypt.co/114244/vitalik-buterin-ftx-collapse-sam-bankman-fried",
+"urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/vitalik-buterin-labitconf-gID_4.jpeg",
+"publishedAt": "2022-11-11T23:51:53Z",
+"content": "Vitalik Buterin, Ethereum co-founder and perhaps one of the most recognizable people in crypto, chastised ex-FTX CEO Sam Bankman-Fried today when asked about the businessman and the collapse of his e… [+1798 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "Twitter faces uncertain future after tumultuous start to Elon Musk's ownership - PBS NewsHour",
+"description": null,
+"url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjprClbeiML0",
+"urlToImage": null,
+"publishedAt": "2022-11-11T23:33:27Z",
+"content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Krystal Hur",
+"title": "Cramer’s week ahead: The market needs weak retail sales data to stay strong - CNBC",
+"description": "Earnings reports from the country's biggest retailers take center stage next week, as does retail sales data for October.",
+"url": "https://www.cnbc.com/2022/11/11/cramers-week-ahead-market-needs-weak-retail-data-to-stay-strong.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107113455-NUP_198430_00728r.jpg?v=1668208615&w=1920&h=1080",
+"publishedAt": "2022-11-11T23:16:55Z",
+"content": "The stock market's current run could fizzle out if October retail sales data comes in hot next week, CNBC's Jim Cramer warned on Friday.\r\n\"If we see weak retail sales and learn that things are gettin… [+3637 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "NBC 5 Dallas-Fort Worth"
+},
+"author": "NBCDFW Staff",
+"title": "Operations Resume at DFW Airport After Fuel Pump Fire Delays Flights Friday - NBC 5 Dallas-Fort Worth",
+"description": "A ground stop has been put into place at Dallas-Fort Worth International Airport Friday morning due to a fire at one of the airport's fuel pumps.",
+"url": "https://www.nbcdfw.com/news/local/ground-stop-at-dfw-airport-due-to-fire-at-fuel-pump/3122938/",
+"urlToImage": "https://media.nbcdfw.com/2022/01/DFW-Airport-Generic.jpg?quality=85&strip=all&resize=1200%2C675",
+"publishedAt": "2022-11-11T23:14:13Z",
+"content": "A ground stop at Dallas-Fort Worth International Airport has been lifted and fuel is once again flowing to aircraft after a fire at a fuel pumping facility caught fire Friday morning.\r\nThe airport sa… [+2087 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "Crypto: 'How many more bankruptcies do we need to see before we get this right?” BitGo CCO says - Yahoo Finance",
+"description": "#Crypto #yahoofinance SBXBitGo Chief Compliance Officer & Former Coinbase Chief Compliance Officer Jeff Horowitz joins Yahoo Finance Live anchors Rachelle Ak...",
+"url": "https://www.youtube.com/watch?v=OtaIgYpu8Cs",
+"urlToImage": "https://i.ytimg.com/vi/OtaIgYpu8Cs/maxresdefault.jpg",
+"publishedAt": "2022-11-11T23:07:15Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "Why the Chartmaster thinks a weak dollar signals weak stocks - CNBC Television",
+"description": "Carter Worth of Worth Charting on where the dollar is headed. With CNBC's Sara Eisen and the Fast Money traders, Courtney Garcia, Tim Seymour, Steve Grasso a...",
+"url": "https://www.youtube.com/watch?v=bk2js9EPiZA",
+"urlToImage": "https://i.ytimg.com/vi/bk2js9EPiZA/maxresdefault.jpg",
+"publishedAt": "2022-11-11T23:03:22Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Triangle Business Journal"
+},
+"author": null,
+"title": "Meta's massive layoffs spark concern in unexpected places - San Francisco Business Times - The Business Journals",
+"description": null,
+"url": "https://www.bizjournals.com/sanfrancisco/news/2022/11/11/meta-layoffs-patelco-loans-lending-small-business.html",
+"urlToImage": null,
+"publishedAt": "2022-11-11T22:30:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "San Francisco Chronicle"
+},
+"author": "Roland Li",
+"title": "FTX bankruptcy hits Bay Area venture capital firms — and the Warriors, Steph Curry and UC Berkeley - San Francisco Chronicle",
+"description": "The massive collapse of cryptocurrency company FTX has reverberations for some big names...",
+"url": "https://www.sfchronicle.com/sports/warriors/article/FTX-bankruptcy-hits-Bay-Area-venture-capital-17578348.php",
+"urlToImage": "https://s.hdnux.com/photos/01/30/25/27/23156182/3/rawImage.jpg",
+"publishedAt": "2022-11-11T22:27:19Z",
+"content": "FTX founder Sam Bankman-Fried, a\r\n Bay Area native and son of two Stanford professors,\r\n resigned as CEO on Friday as the company filed for bankruptcy. His net worth was essentially wiped out after p… [+3065 chars]"
+},
+-{
+-"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": "Shen Lu",
+"title": "E-Commerce Giant Alibaba Reports Weak Singles Day Sales Growth - The Wall Street Journal",
+"description": "Annual shopping festival is another sign of depressed consumer sentiment under China’s Covid-19 policy",
+"url": "https://www.wsj.com/articles/e-commerce-giant-alibaba-reports-weak-singles-day-sales-growth-11668201638",
+"urlToImage": "https://images.wsj.net/im-663682/social",
+"publishedAt": "2022-11-11T22:24:00Z",
+"content": null
+}
+]
+}
