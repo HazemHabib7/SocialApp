@@ -1,4 +1,4 @@
-# udemy
+# SocialApp
 
 A new Flutter project.
 
