@@ -31,21 +31,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  sqflite: ^2.2.0+3
-  intl: ^0.17.0
   bloc: ^8.1.0
   flutter_bloc: ^8.1.1
-  dio: ^4.0.6
-  hexcolor: ^3.0.1
   shared_preferences: ^2.0.15
-  webview_flutter: ^3.0.4
-  smooth_page_indicator: ^1.0.0+2
   fluttertoast: ^8.1.1
-  flutter_conditional_rendering: ^2.0.0
-  carousel_slider: ^4.1.1
   image_picker: ^0.8.6
-  desktop_window: ^0.4.0
-  responsive_builder: ^0.4.3
 
   # Firebase
   firebase_core: ^2.3.0
