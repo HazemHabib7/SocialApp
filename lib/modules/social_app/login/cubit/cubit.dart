@@ -2,11 +2,9 @@ import 'package:bloc/bloc.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:udemy/modules/social_app/login/cubit/states.dart';
-
 import '../../../../layout/social_app/social_layout.dart';
 import '../../../../shared/components/components.dart';
 import '../../../../shared/network/local/cache_helper.dart';
-import '../../../../shared/network/remote/dio_helper.dart';
 
 class SocialLoginCubit extends Cubit<SocialLoginStates> {
   SocialLoginCubit() : super(SocialLoginInitialState());

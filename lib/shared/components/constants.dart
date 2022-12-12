@@ -1,6 +1,4 @@
 import 'dart:io';
-
-import '../../modules/shop_app/login/shop_login_screen.dart';
 import '../../modules/social_app/login/social_login_screen.dart';
 import '../network/local/cache_helper.dart';
 import 'components.dart';
